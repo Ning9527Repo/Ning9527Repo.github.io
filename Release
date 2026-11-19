@@ -5,19 +5,19 @@ Version: 1.0
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Ning源
-Date: Thu, 19 Nov 2026 15:28:27 GMT
+Date: Thu, 19 Nov 2026 16:00:52 GMT
 MD5Sum:
- b37f759888b4d92cb0cbcf2b2c9ce5ee 9056 Packages
- 7b9f9feb1810e15023c0e1fed523f341 3319 Packages.gz
- 0d2236cc272792b60c22cbb1ae1bea30 3414 Packages.bz2
- 1a6424759d7bb2b41a2e51533b26dbd7 3092 Packages.xz
+ a56eba9e35c3107eea11dc853dd682d0 9674 Packages
+ ddf088e47c8e7f760cd8729ac728f1be 3564 Packages.gz
+ 7e01c6d95ff3c8ec9ff27c6327636678 3618 Packages.bz2
+ 1f70e175009ba4e526d84fc327bff233 3320 Packages.xz
 SHA1:
- 183616f3efe609c0036ecf34af97fc6f3b47738e 9056 Packages
- 454dc483d008867b8fe44de726f6fece087c5bf5 3319 Packages.gz
- 979f1282b840c03d8c3ec0fb0dc4201cb441940f 3414 Packages.bz2
- 77fb0012b2708b7039c4fc852fd055de14b18437 3092 Packages.xz
+ 49265c6de0b12d7bbd2718cff09eb72cc8ae793f 9674 Packages
+ d3b847e1581a92a605a4f9b747b36c32bcfe5b69 3564 Packages.gz
+ ebb2dbccbb6fcf539b933913f81690c3b54bcf80 3618 Packages.bz2
+ a65e81eb669f7f69c5933311aea443bd45cc40bb 3320 Packages.xz
 SHA256:
- 135a9bc64b562f057d3cb7ebd2327a19c8425bb5231783e192477795edfc2e74 9056 Packages
- 5f3113e41402c9ed945ce640fa46f8f85e13ac6ba2fb1debed10fa298fe245ed 3319 Packages.gz
- 656a11290a155e1ad62a00bd53b69eb71f4ad0bee847e11fd5b588a90ce85e88 3414 Packages.bz2
- e0cd61e93b79001284fc01beda04c0db233b85a2ac457f15be0dce5fb190814e 3092 Packages.xz
+ 9280761b664e91523a3b2add6bfd9ba0e4e7ed4bf39c1857a1271eb5fbe9319e 9674 Packages
+ 13551e79de62a870d23ddcb9924e90eef8fbfa7fb870fac8a0a8fddcc28c50cb 3564 Packages.gz
+ 4080c6660ae684bd15024fdeef5e7a5f4112a0b80496c98c9de8f00805e0968b 3618 Packages.bz2
+ 78daba6985189a5ca739119734faacf1fdbe0afdc4212394423891977f6552f9 3320 Packages.xz

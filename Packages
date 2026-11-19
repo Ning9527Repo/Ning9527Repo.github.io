@@ -172,8 +172,6 @@ SHA256: 49baf35ee856f02cb7e7e8cc8535637481a333a06655dd69b6fb229541abc80b
 Icon: https://ning9527repo.github.io/debs/icons/controlcenter18.png
 SileoDepiction: https://ning9527repo.github.io/depictions/controlcenter18.json
 
-
-
 Package: com.soren.glassicons
 Version: 0.11
 Architecture: iphoneos-arm64e
@@ -226,3 +224,19 @@ SHA1: 7ecd9e0b74c7ce534c0658ecf679e6fdb57a33e9
 SHA256: 66752d9fdac13ec78b9db248715367c7cfd271d62e5f9901d584b97722bdd8ca
 Icon: https://ning9527repo.github.io/debs/icons/themeboard.png
 SileoDepiction: https://ning9527repo.github.io/depictions/themeboard-engine.json
+
+Package: ch.xxtou.hudapp.jb
+Version: 2.0-15
+Architecture: iphoneos-arm64e
+Maintainer: Ning&Lessica
+Depends: firmware (>= 14.0)
+Filename: debs/roothide/ch.xxtou.hudapp.jb_2.0-15_iphoneos-arm64e.deb
+Size: 139490
+MD5sum: 41db187cf4a8d7dad02c8b68b2141e19
+SHA1: d8c9d1af6d4dcf9e63f638c99d63f66d42a057ad
+SHA256: 44a924c3adb1010375ee13a7b7b9699c47a51f10d9bc2b60b55cf3df247581d1
+Section: 应用
+Icon: https://ning9527repo.github.io/debs/icons/trollspeed.png
+Description: Troll your speed, but jailbroken. 字体大小与偏移设置已整合进 App 内，系统设置入口已移除。
+Author: Ning&Lessica
+Name: TrollSpeed JB

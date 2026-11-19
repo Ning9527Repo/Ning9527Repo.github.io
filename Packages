@@ -1,0 +1,228 @@
+Package: com.hmmzzz.fontmanager
+Version: 0.3.9
+Architecture: iphoneos-arm64e
+Maintainer: Ning&Hmmzzz
+Installed-Size: 1556
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt
+Filename: debs/roothide/com.hmmzzz.fontmanager_0.3.9_iphoneos-arm64e.deb
+Size: 407314
+MD5sum: 5897defaf1932012688d1e412700420b
+SHA1: 8d6c842b8d6c003e0d8b1c000d8b385cf9f046c9
+SHA256: d975e114a856e19745f4a48c93f84f1882972d43588e49bf2e9ad5ad56339322
+Section: 应用
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 16+ 全局字体管理器，支持 conventional rootless 与 RootHide。
+ 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，
+ 将字体安全应用到整个系统，也可以随时恢复系统默认字体。
+ .
+ MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后
+ 自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装。
+Author: Ning&Hmmzzz
+Icon: https://ning9527repo.github.io/debs/icons/markfont.png
+SileoDepiction: https://ning9527repo.github.io/depictions/markfont.json
+Name: MarkFont
+
+Package: com.layii.ccrnd
+Version: 0.1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: LaYii
+Installed-Size: 172
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.0)
+Filename: debs/roothide/com.layii.ccrnd_0.1.0-2_iphoneos-arm64e.deb
+Size: 4900
+MD5sum: 9210cd9de85470b4092c86eb55fc5439
+SHA1: b7e0b6106f181268fcdee8bf77722355f140baa1
+SHA256: f4ac77318858c11998f3f0ef65b28bd280079f32c5ecbecf8a0be9c01df06d3e
+Section: 系统增强
+Description: 去除录屏延迟
+Author: LaYii
+Icon: https://ning9527repo.github.io/debs/icons/luzhi.jpg
+Name: 去除录屏延迟
+
+Package: com.sorenning.trollstore
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Minis
+Depends: mobilesubstrate
+Filename: debs/roothide/com.sorenning.trollstore_1.1.0_iphoneos-arm64e.deb
+Size: 27740
+MD5sum: baba080236d14130782052ea8ae9a6ce
+SHA1: fc212ecafc2173e1203d9264203da6169935fc43
+SHA256: 82a8dfe854b733fd0b82fc11281db1ff6352d57bcd0fba09a6bec10e2e2b621b
+Section: 应用
+Description: Simplified Chinese UI localization layer for TrollStore 2.1.1
+Author: Soren Ning
+Name: trollstore 简体中文包
+
+Package: com.ning.simcontrol
+Name: 蜂窝管理
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Ning
+Author: Ning
+Section: 状态栏与控制中心
+Priority: optional
+Depends: firmware (>= 16.0), firmware (<< 18.0), com.opa334.ccsupport
+Description: Native SIM switches for the system Control Center on iOS 16 and 17.
+Icon: https://ning9527repo.github.io/debs/icons/simcontrol.png
+Filename: debs/roothide/com.ning.simcontrol_1.0.1_iphoneos-arm64e.deb
+Size: 151144
+MD5sum: 920559a7a8d3c03bf8ae649dd57b89a8
+SHA1: 31e338edd8fef74608e21c6444c15814d3f10e34
+SHA256: 586d51dbd28ce87ff74b211657ef2ace37e51e13d73ef7dd17699624547a7148
+
+Package: com.ning.simcontrol
+Name: 蜂窝管理
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Ning
+Author: Ning
+Section: 状态栏与控制中心
+Priority: optional
+Depends: firmware (>= 16.0), firmware (<< 18.0), com.opa334.ccsupport
+Description: Native SIM switches for the system Control Center on iOS 16 and 17 (rootless).
+Icon: https://ning9527repo.github.io/debs/icons/simcontrol.png
+Filename: debs/roothide/com.ning.simcontrol_1.0.3_iphoneos-arm64.deb
+Size: 146472
+MD5sum: 22e0e7d0371e83e0a09c54177745a7e3
+SHA1: 2d42f24b4d2b43f78579f27f1165eb97fb5ef5cc
+SHA256: d576a6a80bcbc5c83297fddbec44f5ddf85630aa89ddc8bb4331e82333bb662d
+
+Package: com.ning.dataswitch
+Name: 数据切换
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Ning&Netskao
+Author: Ning&Netskao
+Section: 状态栏与控制中心
+Priority: optional
+Depends: firmware (>= 16.0), firmware (<< 18.0), com.opa334.ccsupport
+Description: Independent cellular data switching module for Control Center on iOS 16 and 17.
+Icon: https://ning9527repo.github.io/debs/icons/dataswitch.png
+Filename: debs/roothide/com.ning.dataswitch_1.0_iphoneos-arm64e.deb
+Size: 140722
+MD5sum: 51f98891a16e6d0b49f57442533c4acf
+SHA1: ec8fc173e4e9a99756406a431f01ed74f531be2f
+SHA256: e7d9b0753b25c7778fb19ae25db362b30a8c69ac0ec70d433d0a1505c4ee0876
+
+Package: com.hmmzzz.fontmanager
+Name: MarkFont
+Description: iOS 16+ 全局字体管理器，支持 conventional rootless 与 RootHide。
+ 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，
+ 将字体安全应用到整个系统，也可以随时恢复系统默认字体。
+ .
+ MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后
+ 自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装。
+Maintainer: Ning&Hmmzzz
+Author: Ning&Hmmzzz
+Section: 应用
+Homepage: https://hmmzzz.github.io/repo/
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt
+Icon: https://ning9527repo.github.io/debs/icons/markfont.png
+Architecture: iphoneos-arm64
+Version: 0.3.9
+Installed-Size: 2772
+Filename: debs/com.hmmzzz.fontmanager_0.3.9_iphoneos-arm64.deb
+Size: 535736
+MD5sum: 2dae782a637519262aeffaa168c19253
+SHA1: e2a67ad8b400837301a0c5fe26b12c1d46cb54a3
+SHA256: 4073882b22df29732b749653d8218b0ac98ae129c0123a029d5ec540c12f23f9
+SileoDepiction: https://ning9527repo.github.io/depictions/markfont.json
+
+Package: com.ning.qqencryption
+Name: qqEncryption
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Ning
+Author: Ning
+Section: Tweaks
+Priority: optional
+Depends: firmware (>= 15.0)
+Conflicts: com.ning.qqphotobase64
+Replaces: com.ning.qqphotobase64
+Description: QQ static-photo Base64 containers with a circular toggle and file decode preview. Base64 provides no secrecy.
+Filename: debs/roothide/com.ning.qqencryption_1.0.1_iphoneos-arm64e.deb
+Size: 60040
+MD5sum: 83da2d390342daf02b4c4f66948a1388
+SHA1: 059d0ebfe325301ce029dbf5cb4850051cc9a959
+SHA256: 9b3e07eaf48519f3d8ce1922a61263b9e0543764a6181562522e3192ed2ec5bb
+Icon: https://ning9527repo.github.io/debs/icons/qqencryption.png
+SileoDepiction: https://ning9527repo.github.io/depictions/qqencryption.json
+
+Package: com.evgeniy558.controlcenter18
+Name: ControlCenter18
+Description: 把iOS18控制中心完整移植到iOS16/17:添加页面、自定义每个按钮、直接在控制中心里移动或移除它们。
+Maintainer: Ning&evgeniy558
+Author: Ning&evgeniy558
+Section: Tweaks
+Conflicts: com.dao.ccless
+Replaces: com.dao.ccless
+Depends: mobilesubstrate, firmware (>= 16.0), firmware (<< 18.0), preferenceloader, com.opa334.ccsupport
+Architecture: iphoneos-arm64e
+Version: 3.0-beta6
+Installed-Size: 14110
+Filename: debs/roothide/com.evgeniy558.controlcenter18_3.0-beta6_iphoneos-arm64e.deb
+Size: 2023528
+MD5sum: 0b4a380b644a8867899ead2bf2fa912f
+SHA1: cd2569fe8105a9560387b3bfe27a3bfc8a270262
+SHA256: 49baf35ee856f02cb7e7e8cc8535637481a333a06655dd69b6fb229541abc80b
+Icon: https://ning9527repo.github.io/debs/icons/controlcenter18.png
+SileoDepiction: https://ning9527repo.github.io/depictions/controlcenter18.json
+
+
+
+Package: com.soren.glassicons
+Version: 0.11
+Architecture: iphoneos-arm64e
+Maintainer: Ning
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
+Filename: debs/roothide/com.soren.glassicons_0.11_iphoneos-arm64e.deb
+Size: 31264
+MD5sum: 891117fa70a3f1f9702ac3e18b829f16
+SHA1: 2f731f8976001337a13e2ba43eda947140b02eca
+SHA256: 28ee4cc3b830af67b25734dc6d67172b8be723b1f3277c3205bdd8f7f1fdf2e0
+Section: 桌面美化
+Priority: optional
+Description: Subtle glass rim and sheen for SpringBoard app icons (iOS 15-17, RootHide)
+Tag: pw::application
+Author: Ning
+Icon: https://ning9527repo.github.io/debs/icons/glassicons.png
+Name: GlassIcons
+
+Package: com.ning.themeboard
+Name: ThemeBoard
+Version: 1.50
+Architecture: iphoneos-arm64e
+Description: 图标主题管理与应用。兼容 SnowBoard / Anemone 的 IconBundles 主题格式，浏览、预览、一键应用。本包只含 App，不含注入引擎。
+Maintainer: Ning
+Author: Ning
+Section: 主题
+Depends: firmware (>= 15.0)
+Installed-Size: 200
+Filename: debs/com.ning.themeboard_1.50_iphoneos-arm64e.deb
+Size: 851728
+MD5sum: 98e8a3b7c0107f638238c6da1822fa3e
+SHA1: c51ae5b97bbece5df24db7ed5cfbe6c78df2d756
+SHA256: f4ca501931aac7c9de0f4f853232d1bd60f3d14bf25dc5a393b7616138c5f9bb
+Icon: https://ning9527repo.github.io/debs/icons/themeboard.png
+SileoDepiction: https://ning9527repo.github.io/depictions/themeboard.json
+
+Package: com.ning.themeboard.engine
+Name: ThemeBoard 引擎
+Version: 1.50
+Architecture: iphoneos-arm64e
+Description: ThemeBoard 的图标替换引擎（注入 SpringBoard）。只需要装一次，之后换主题不用重装。
+Maintainer: Ning
+Author: Ning
+Section: 主题
+Depends: mobilesubstrate
+Filename: debs/com.ning.themeboard.engine_1.50_iphoneos-arm64e.deb
+Size: 118064
+MD5sum: 308d6f299bdb8cf0b807535fa333daaf
+SHA1: 7ecd9e0b74c7ce534c0658ecf679e6fdb57a33e9
+SHA256: 66752d9fdac13ec78b9db248715367c7cfd271d62e5f9901d584b97722bdd8ca
+Icon: https://ning9527repo.github.io/debs/icons/themeboard.png
+SileoDepiction: https://ning9527repo.github.io/depictions/themeboard-engine.json

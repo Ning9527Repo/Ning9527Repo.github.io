@@ -1,0 +1,17 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#007AFF",
+  "tabs": [
+    {
+      "tabname": "详情",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "把iOS18控制中心完整移植到iOS16/17:添加页面、自定义每个按钮、直接在控制中心里移动或移除它们。"
+        }
+      ]
+    }
+  ]
+}

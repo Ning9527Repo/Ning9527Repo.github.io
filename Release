@@ -1,0 +1,23 @@
+Origin: Ning源
+Label: Ning源
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Ning源
+Date: Thu, 19 Nov 2026 15:28:27 GMT
+MD5Sum:
+ b37f759888b4d92cb0cbcf2b2c9ce5ee 9056 Packages
+ 7b9f9feb1810e15023c0e1fed523f341 3319 Packages.gz
+ 0d2236cc272792b60c22cbb1ae1bea30 3414 Packages.bz2
+ 1a6424759d7bb2b41a2e51533b26dbd7 3092 Packages.xz
+SHA1:
+ 183616f3efe609c0036ecf34af97fc6f3b47738e 9056 Packages
+ 454dc483d008867b8fe44de726f6fece087c5bf5 3319 Packages.gz
+ 979f1282b840c03d8c3ec0fb0dc4201cb441940f 3414 Packages.bz2
+ 77fb0012b2708b7039c4fc852fd055de14b18437 3092 Packages.xz
+SHA256:
+ 135a9bc64b562f057d3cb7ebd2327a19c8425bb5231783e192477795edfc2e74 9056 Packages
+ 5f3113e41402c9ed945ce640fa46f8f85e13ac6ba2fb1debed10fa298fe245ed 3319 Packages.gz
+ 656a11290a155e1ad62a00bd53b69eb71f4ad0bee847e11fd5b588a90ce85e88 3414 Packages.bz2
+ e0cd61e93b79001284fc01beda04c0db233b85a2ac457f15be0dce5fb190814e 3092 Packages.xz

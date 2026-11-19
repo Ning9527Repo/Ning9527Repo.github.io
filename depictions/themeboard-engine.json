@@ -1,0 +1,16 @@
+{
+  "class": "DepictionStackView",
+  "minVersion": "0.1",
+  "tintColor": "#3478F6",
+  "views": [
+    {
+      "class": "DepictionHeaderView",
+      "title": "ThemeBoard 引擎 1.50"
+    },
+    {
+      "class": "DepictionMarkdownView",
+      "useSpacing": true,
+      "markdown": "ThemeBoard 引擎 1.50 原版。仅发布 iphoneos-arm64e / RootHide 对应包，请同时更新 App 与引擎。"
+    }
+  ]
+}

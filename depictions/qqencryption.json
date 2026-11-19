@@ -1,0 +1,16 @@
+{
+  "class": "DepictionStackView",
+  "minVersion": "0.1",
+  "tintColor": "#3478F6",
+  "views": [
+    {
+      "class": "DepictionHeaderView",
+      "title": "qqEncryption 1.0.1"
+    },
+    {
+      "class": "DepictionMarkdownView",
+      "useSpacing": true,
+      "markdown": "QQ static-photo Base64 containers with a circular toggle and file decode preview. Base64 provides no secrecy.\n\n作者：Ning。\n\n本源仅提供 64e / RootHide 版（iphoneos-arm64e，根路径 loader 布局）。\n\n本插件没有独立设置页，图标仅用于软件源列表与详情。"
+    }
+  ]
+}

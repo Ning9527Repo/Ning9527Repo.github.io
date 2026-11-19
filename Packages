@@ -240,3 +240,21 @@ Icon: https://ning9527repo.github.io/debs/icons/trollspeed.png
 Description: Troll your speed, but jailbroken. 字体大小与偏移设置已整合进 App 内，系统设置入口已移除。
 Author: Ning&Lessica
 Name: TrollSpeed JB
+
+Package: com.local.ios27statusbar
+Version: 1.2-2
+Architecture: iphoneos-arm64e
+Maintainer: 半生年华&yaowell&Benja Guo
+Installed-Size: 331
+Depends: mobilesubstrate
+Filename: debs/roothide/com.local.ios27statusbar_1.2-2_iphoneos-arm64e.deb
+Size: 59970
+MD5sum: 10da47e7fc68cbbb6ba355d5479cf9e4
+SHA1: b2f6774b819a192ec59825e889997ff777db521a
+SHA256: 79905286c6ca5b4300f71149eea9d65e7a2a74e7d48484be9a1f7d94ce5309ee
+Section: Tweaks
+Description: 模仿27系统状态栏 信号与Wi-Fi素材来源：Benja Guo  电池源码感谢yaowell提供
+Author: 半生年华&yaowell&Benja Guo
+Icon: https://ning9527repo.github.io/debs/icons/ios27statusbar.png
+Name: iOS27状态栏
+

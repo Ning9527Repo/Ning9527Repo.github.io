@@ -275,38 +275,3 @@ MD5sum: 893666a4e895836a5cddb40bfa5abc35
 SHA1: 6aa46eb18c08d1eb2f278e5f3cf1dad699840d90
 SHA256: aef52c7a71357a99c79cf7c561c671471051b500c8ba1994a00072eb5b2d8443
 Icon: https://ning9527repo.github.io/debs/icons/systemx.png
-
-Package: com.ning.themeboard
-Name: ThemeBoard
-Version: 1.51
-Architecture: iphoneos-arm64e
-Description: 图标主题管理与应用。兼容 SnowBoard / Anemone 的 IconBundles 主题格式，浏览、预览、一键应用。本包只含 App，不含注入引擎。
-Maintainer: Ning
-Author: Ning
-Section: 主题
-Depends: firmware (>= 15.0)
-Installed-Size: 200
-Filename: debs/com.ning.themeboard_1.51_iphoneos-arm64e.deb
-Size: 855980
-MD5sum: fcfebf4643d7034d6c55fe407c2498f9
-SHA1: 30db9a817ed909b5f7a3335add2dfe6a16d6e0eb
-SHA256: 2ac3a4f78e5483e383d23fe66b3cd4a0848c2198e2eff42844c4135ea841d673
-Icon: https://ning9527repo.github.io/debs/icons/themeboard.png
-SileoDepiction: https://ning9527repo.github.io/depictions/themeboard.json
-
-Package: com.ning.themeboard.engine
-Name: ThemeBoard 引擎
-Version: 1.51
-Architecture: iphoneos-arm64e
-Description: ThemeBoard 的图标替换引擎（注入 SpringBoard）。只需要装一次，之后换主题不用重装。
-Maintainer: Ning
-Author: Ning
-Section: 主题
-Depends: mobilesubstrate
-Filename: debs/com.ning.themeboard.engine_1.51_iphoneos-arm64e.deb
-Size: 122178
-MD5sum: f04aaefdcb88ef909861606e5b677f69
-SHA1: 834aab334c8696aa799e27a7414fec755385a14a
-SHA256: 32f5e785f034a6e4b0f99c487b25aed82722b302dbd5fde90ec788b2280df252
-Icon: https://ning9527repo.github.io/debs/icons/themeboard.png
-SileoDepiction: https://ning9527repo.github.io/depictions/themeboard-engine.json

@@ -258,3 +258,38 @@ Author: 半生年华&yaowell&Benja Guo
 Icon: https://ning9527repo.github.io/debs/icons/ios27statusbar.png
 Name: iOS27状态栏
 
+Package: com.wkk.systembox
+Name: SystemX
+Version: 1.5-8-23
+Architecture: iphoneos-arm64e
+Installed-Size: 2792
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.wkk.clockglass
+Description: SystemX 原版液态 Dock + 仅清除按钮尺寸补丁；Maintainer/Author 保持原版 wkk。
+Filename: debs/roothide/com.wkk.systembox_1.5-8-23_iphoneos-arm64e.deb
+Size: 1079782
+MD5sum: 893666a4e895836a5cddb40bfa5abc35
+SHA1: 6aa46eb18c08d1eb2f278e5f3cf1dad699840d90
+SHA256: aef52c7a71357a99c79cf7c561c671471051b500c8ba1994a00072eb5b2d8443
+Icon: https://ning9527repo.github.io/debs/icons/systemx.png
+
+Package: com.wkk.systembox
+Name: SystemX
+Version: 1.5-8-23
+Architecture: iphoneos-arm64e
+Installed-Size: 2792
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.wkk.clockglass
+Description: SystemX 原版液态 Dock + 仅清除按钮尺寸补丁；Maintainer/Author 保持原版 wkk。
+Filename: debs/roothide/com.wkk.systembox_1.5-8-23_iphoneos-arm64e.deb
+Size: 1079782
+MD5sum: 893666a4e895836a5cddb40bfa5abc35
+SHA1: 6aa46eb18c08d1eb2f278e5f3cf1dad699840d90
+SHA256: aef52c7a71357a99c79cf7c561c671471051b500c8ba1994a00072eb5b2d8443
+Icon: https://ning9527repo.github.io/debs/icons/systemx.png

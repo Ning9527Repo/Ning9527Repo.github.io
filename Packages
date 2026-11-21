@@ -309,3 +309,23 @@ MD5sum: 5afbba85224cd6216d61ea667938b8fc
 SHA1: 32aa10ed2f58dddea3c94ae564f10f8a3dfc5a92
 SHA256: 91d88f92d317992971b9f419339ecbc09a3d41838b70f25f5f8561667a03d129
 
+Package: com.ning.controlcenter18
+Name: ControlCenter18
+Description: 把iOS18控制中心完整移植到iOS16/17:添加页面、自定义每个按钮、直接在控制中心里移动或移除它们。
+Maintainer: Ning
+Author: Ning
+Section: Tweaks
+Conflicts: com.dao.ccless, com.evgeniy558.controlcenter18
+Replaces: com.dao.ccless, com.evgeniy558.controlcenter18
+Depends: mobilesubstrate, firmware (>= 16.0), firmware (<< 18.0), com.opa334.ccsupport
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 11554
+Provides: com.evgeniy558.controlcenter18
+Icon: https://ning9527repo.github.io/debs/icons/com.ning.controlcenter18.png
+Filename: debs/roothide/com.ning.controlcenter18_1.0_iphoneos-arm64e.deb
+Size: 1845652
+MD5sum: 6263cadfa07cbbb38f476770ad63f889
+SHA1: a0d4ee0f184c51012336500769996069eab1dc16
+SHA256: 2548e133a24af220d196080b06c8b7a59a3d2d468ec1b00287aa61fb60b9bf8a
+

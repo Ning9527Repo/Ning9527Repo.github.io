@@ -293,3 +293,18 @@ SHA1: 5c3038cf033cda4b656c4050d1c8ab93ec9b38a1
 SHA256: 4a11e8da92f5a9230421ce387e5ec88d7c2270d95d6907a55ebeb81410f5eb33
 Icon: https://ning9527repo.github.io/debs/icons/themeboard.png
 SileoDepiction: https://ning9527repo.github.io/depictions/themeboard-engine.json
+
+Package: com.ning.betterccbrightness
+Name: 亮度增强
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Description: 为控制中心亮度模块扩展更多控制（二改版：两侧滑杆使用系统控制中心原生背景）
+Maintainer: Ning&level3tjg
+Author: Ning&level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: debs/roothide/com.ning.betterccbrightness_1.0.2_iphoneos-arm64e.deb
+Size: 36586
+MD5sum: 5afbba85224cd6216d61ea667938b8fc
+SHA1: 32aa10ed2f58dddea3c94ae564f10f8a3dfc5a92
+SHA256: 91d88f92d317992971b9f419339ecbc09a3d41838b70f25f5f8561667a03d129

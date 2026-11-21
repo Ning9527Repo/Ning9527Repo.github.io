@@ -5,12 +5,12 @@
   "views": [
     {
       "class": "DepictionHeaderView",
-      "title": "ThemeBoard 1.50"
+      "title": "ThemeBoard 1.51"
     },
     {
       "class": "DepictionMarkdownView",
       "useSpacing": true,
-      "markdown": "ThemeBoard 1.50 原版。仅发布 iphoneos-arm64e / RootHide 对应包，请同时更新 App 与引擎。"
+      "markdown": "ThemeBoard 1.51 重复图标修复版。仅发布 iphoneos-arm64e / RootHide 对应包，请同时更新 App 与引擎。"
     }
   ]
 }

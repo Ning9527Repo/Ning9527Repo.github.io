@@ -364,3 +364,20 @@ MD5sum: a44e627f910254d7db35b476421c24c6
 SHA1: fef0332c23f2978b2565a4d82d8f8ddeb71102f5
 SHA256: 18e3ba75e8b58652dec4dd65a9fae4a2346b94866b212718368a02635750f62a
 
+Package: com.ning.keyboardglass
+Name: Ning Keyboard Glass
+Version: 0.2.4
+Architecture: iphoneos-arm64e
+Maintainer: Ning
+Author: Ning
+Section: Tweaks
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Description: Adjustable glass material for system keyboards on iOS 16 and 17.
+Installed-Size: 399
+Icon: https://ning9527repo.github.io/debs/icons/com.ning.keyboardglass.png
+Filename: debs/roothide/com.ning.keyboardglass_0.2.4_iphoneos-arm64e.deb
+Size: 196814
+MD5sum: 7834e6049f6f220f0ec5bed501244aa8
+SHA1: b6ba36e1d00af2b4bb100c70f2a2d4da76688244
+SHA256: 2406e30bc4f9bafee4d77b00efe54540b429734d57ee059d2a504b58d0568481
+

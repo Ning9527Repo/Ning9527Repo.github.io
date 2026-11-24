@@ -363,3 +363,21 @@ MD5sum: 3db1ab5e21c0607f83f214f0c4ec55c6
 SHA1: d8f3535bcd0d8d596e0801872cb683168af93136
 SHA256: c94495ac00af622179fee95bf6b16977bcdc292d30fa4dcbc69e4018fbef9ad8
 
+Package: com.ning.theseusswitch
+Name: 27液态开关
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: Ning
+Author: Ning
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, roothide (>= 0.0.1)
+Conflicts: com.ning.glassswitchdock, com.ning.switch, com.ning.daynightswitch
+Installed-Size: 1102
+Description: Standalone original Theseus switch integration.
+Tag: purpose::extension
+Homepage: https://github.com/valzevul/Theseus
+Filename: debs/roothide/com.ning.theseusswitch_1.5_iphoneos-arm64e.deb
+Size: 364902
+MD5sum: 85136fd6bc96cb26536a220c8b127147
+SHA1: 071acdc455478984ff3dfe601acd2a0f90455b2a
+SHA256: c60fb87f632c3690d4b42d0eae0f8ef05b77c3b247eac75701b941f881a69569
